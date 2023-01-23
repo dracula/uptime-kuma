@@ -1,10 +1,10 @@
-### [Foobar](https://foobar.com)
+### [Uptime Kuma](https://uptime.kuma.pet/)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/foobar.git
+    git clone https://github.com/dracula/uptime-kuma.git
 
 #### Install manually
 
@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/foobar/arch
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Activate dark theme for status page
+2. Paste the contents of the theme.css into the "Custom CSS" textfield
+3. Press "Save"
