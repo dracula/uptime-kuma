@@ -1,0 +1,95 @@
+:root {
+  --color-bg: #282a36;
+  --color-current-line: #44475a;
+  --color-foreground: #f8f8f2;
+  --color-comment: #6272a4;
+  --color-cyan: #8be9fd;
+  --color-green: #50fa7b;
+  --color-orange: #ffb86c;
+  --color-pink: #ff79c6;
+  --color-purple: #bd93f9;
+  --color-red: #ff5555;
+  --color-yellow: #f1fa8c;
+  --body: "Source Sans Pro";
+  --mono: "Fira Code";
+  --title: "Abril Text";
+}
+
+.dark .shadow-box,
+.dark .form-control,
+.dark .form-select {
+  background-color: var(--color-current-line) !important;
+  border-radius: 0;
+}
+
+[contenteditable="true"] {
+  background-color: var(--color-pink) !important;
+  color: var(--color-bg) !important;
+  border-radius: 0;
+  padding: 5px;
+}
+
+body {
+  background-color: var(--color-bg) !important;
+}
+
+body,
+input,
+button,
+select,
+optgroup,
+textarea,
+#app {
+  font-family: var(--body) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--title) !important;
+}
+
+.rounded-pill,
+.btn,
+.hp-bar-big .beat {
+  border-radius: 0 !important;
+}
+
+.bg-primary,
+.btn-primary {
+  background-color: var(--color-purple) !important;
+  border-color: var(--color-purple) !important;
+  color: var(--color-current-line) !important;
+}
+
+.bg-success,
+.btn-success {
+  background-color: var(--color-green) !important;
+  border-color: var(--color-green);
+  color: var(--color-current-line) !important;
+}
+
+.bg-danger,
+.btn-danger {
+  background-color: var(--color-red) !important;
+  border-color: var(--color-red) !important;
+  color: var(--color-bg) !important;
+}
+
+.bg-info,
+.btn-info {
+  background-color: var(--color-cyan) !important;
+  border-color: var(--color-cyan) !important;
+  color: var(--color-current-line) !important;
+}
+
+.overall-status .warning {
+  color: var(--color-yellow) !important;
+}
+
+.info>span.badge.bg-primary {
+  background-color: var(--color-green) !important;
+  color: var(--color-current-line) !important;
+}
