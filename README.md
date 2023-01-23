@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Uptime Kuma](https://uptime.kuma.pet/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Uptime Kuma](https://uptime.kuma.pet/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/uptime-kuma](https://draculatheme.com/uptime-kuma).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Dominic Hock](https://github.com/subtixx.png?size=100)](https://github.com/subtixx) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Dominic Hock](https://github.com/subtixx)                                               |
 
 ## Community
 
